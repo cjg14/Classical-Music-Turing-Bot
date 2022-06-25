@@ -4,14 +4,16 @@ Are you tired of the classical music slander in this day of age? Want a buddy to
 Turing_bot: 
 The Turing_bot is 'someone' you can talk about composers with. It contains a 'main memory' of some famous classical composers as well as some pieces they wrote.
 
-NOTE:
+NOTE
+-----
 
     - to ask a question, please include '?' in your message at least once.
 	
     - to get interesting responses about pieces and composers, you must include the name of the composer at least once. 
     The bot knows ...
         Bach, Beethoven, Chopin, Debussy, Liszt, Mozart, Vivaldi
-Features:
+Features
+---------
 
     - Can distinguish between question and statement and then figures out how to respond accordingly
         *Personally, I think a big giveaway in the identity of any chatbot lies in its ability to be able to distinguish a question and statement. If
@@ -31,6 +33,7 @@ Features:
         - If the bot is asked to speak first, it'll choose a random starter question
 		
 Links/Sources: (mainly for inspiration)
+-------------------------------------------
 
     https://research.aimultiple.com/top-chatbot-success/
     https://chatbotsmagazine.com/how-close-are-chatbots-to-pass-turing-test-33f27b18305e
